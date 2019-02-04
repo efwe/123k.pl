@@ -1,0 +1,4 @@
+baseURL = "https://123k.pl/"
+languageCode = "en-us"
+title = "123k.pl"
+theme = "ananke"
