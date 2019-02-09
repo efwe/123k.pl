@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Show routes to current geohash"
-date: "2016-01-13 15:28"
+date: 2016-01-2016-01-07T09:29:50+01:00
 categories: [leaflet, mongodb, geohashing]
 ---
 # The Plan
-My geohashing alert-system at [123k.org](https://123k.org/geohashing) shows the current [geohash](http://wiki.xkcd.com/geohashing/) for my home [graticule](https://en.wikipedia.org/wiki/Geographic_coordinate_system). The plan is to the nearest route which passes by.
+My geohashing alert2016-01-13 15:28-system at [123k.org](https://123k.org/geohashing) shows the current [geohash](http://wiki.xkcd.com/geohashing/) for my home [graticule](https://en.wikipedia.org/wiki/Geographic_coordinate_system). The plan is to the nearest route which passes by.
 
 # Finding Something
 As mentioned [earlier]({{< ref "build-a-coverage-map-with-mongodb.md" >}}) I have all points i ever visited in a collection.

@@ -1,6 +1,7 @@
 ---
 title: "Build a Coverage Map With Mongodb"
 date: 2016-01-02T19:38:06+01:00
+categories: [mongodb]
 ---
 # Introduction
 When I started with my personal bike-track homepage at [123k.org](https://123k.org) a few years ago I decided to put all my tracks
