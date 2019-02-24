@@ -62,8 +62,13 @@ the rails installation for [123k.org](https://123k.org).
 
 ## hilda.123k.org
 [Hilda](http://hilda.123k.org) is the Ubuntu Linux backend server which hosts the mongodb and the JVM service. It is referenced
-as [https://map.123k.org](https://map.123k.org) from the frontend. The mongodb is still unsecured but listens on a public IP know - 
-medium good idea as we learned in the past. For now I limit access via a firewall rule, but this is not optimal. 
+as [https://map.123k.org](https://map.123k.org) from the frontend. The MongoDB is still unsecured but listens on a public IP now - 
+a medium good idea as we learned in the past. For now I limit access via a firewall rule, but this is not optimal.
+
+## Hetzner Cloud
+I use [Hetzner](htts://hetzner.de) for 15 years now and I'm still a fan (of course also because their origins are from Franconia Germany).
+This is the second time I use their 'Cloud' in production. Everything was super-easy. I even started using
+the [hcloud](https://github.com/hetznercloud/cli) command line tool.  
 
 
 # Stream Consumers - SSE vs. Websockets
@@ -103,6 +108,9 @@ switchTrack: (id) ->
 
 
 You can find the first test-results on my new static site [123k.work](https://123k.work).
+I use the popular Vue framework there - but instead of rapid prototyping I lose myself in
+details and already wasted hours for basic stuff _in which I am fundamentally not interested_ :-)
+So you can check my humble copy and paste efforts at the [project on github](https://github.com/efwe/wazka.123k.pl)
 
 
 [^1]: Actually I was forced to use Linux, because the Java 11 port for freeBSD is not 100% ready yet.
