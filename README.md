@@ -1,5 +1,5 @@
 # Hugo blog for 123k.pl
-This is the development reporistory for my blog at [123k.pl](https://123k.pl). I followed the instructions for github user-pages and added the 
+This is the development repository for my blog at [123k.pl](https://123k.pl). I followed the instructions for github user-pages and added the 
 actual target-repo ([efwe.github.io](https://github.com/efwe/efwe.github.io)) as a git sub-module. This is where the hugo renders all the stuff
 to and later I issue another commit to push the actual homepage.
 
