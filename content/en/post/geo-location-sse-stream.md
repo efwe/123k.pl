@@ -1,7 +1,6 @@
 ---
 title: "Streaming Geo-Locations"
 date: 2019-02-24T10:43:07+01:00
-draft: false
 ---
 # Streaming Server Experiments
 My first tests with streaming geo-locations from mongodb to a webclient started. The results are pretty promising and I even

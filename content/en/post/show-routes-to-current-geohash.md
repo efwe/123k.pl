@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Show routes to current geohash"
-date: 2016-01-2016-01-07T09:29:50+01:00
+date: 2016-01-07T09:29:50+01:00
 categories: [leaflet, mongodb, geohashing]
 ---
 # The Plan
