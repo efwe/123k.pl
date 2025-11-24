@@ -7,7 +7,7 @@ In the course of thel ast years all of my private sites and projects rotted away
 So the only thing which seems to be operatable is the static homepage on 123k.pl and this also of course rotted away as nobody updated hugo for me.
 
 So this fantastic elaborated blog-post marks the start of a new iteration. 
-The long term goal (which I should _never_ write down here already now) is to have
+The long term goal (which I should have _never_ written about here already now) is to have
 
 * 123k.org - as a 'Radlflanieren' page. More photos, less power-related data points.
 * 123k.work - as an advertisement for me in a professional context.
